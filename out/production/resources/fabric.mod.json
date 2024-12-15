@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "oceanclient",
+  "version": "${version}",
+  "name": "OceanClient",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/oceanclient/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "de.axiomlab.oceanclient.client.OceanClient"
+    ],
+    "main": [
+      "de.axiomlab.oceanclient.Oceanclient"
+    ]
+  },
+  "mixins": [
+    "oceanclient.mixins.json",
+    {
+      "config": "oceanclient.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
