@@ -1,6 +1,6 @@
-OceanClient - Minecraft Fabric Mod
+# OceanClient - Minecraft Fabric Mod
 
-OceanClient is a Minecraft client mod built for the Fabric mod loader, designed to enhance your Minecraft experience with a range of powerful features, a fresh user interface, and seamless integration of new in-game systems. This client mod aims to offer both casual players and competitive enthusiasts an upgraded way to enjoy the game.
+## OceanClient is a Minecraft client mod built for the Fabric mod loader, designed to enhance your Minecraft experience with a range of powerful features, a fresh user interface, and seamless integration of new in-game systems. This client mod aims to offer both casual players and competitive enthusiasts an upgraded way to enjoy the game.
 Features
 New User Interface (UI)
 
