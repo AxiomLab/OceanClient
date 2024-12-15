@@ -1,0 +1,31 @@
+{
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-15 14:17:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-15 14:15:15 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-15 14:18:11 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-15 14:15:21 +0100",
+      "minecraft:cherry_grove": "2024-12-15 14:16:14 +0100",
+      "minecraft:sunflower_plains": "2024-12-15 14:17:13 +0100",
+      "minecraft:savanna": "2024-12-15 14:15:52 +0100",
+      "minecraft:plains": "2024-12-15 14:15:16 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 4189
+}
