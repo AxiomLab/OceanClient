@@ -3,6 +3,9 @@
 ![Won't support forge](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/unsupported/forge_64h.png?raw=true)
 ![Won't support LiteLoader](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/unsupported/liteloader_64h.png?raw=true)
 
+### Needs
+![Fabric API](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/requires/fabric-api_64h.png?raw=true)
+
 ## OceanClient is a Minecraft client mod built for the Fabric mod loader, designed to enhance your Minecraft experience with a range of powerful features, a fresh user interface, and seamless integration of new in-game systems. This client mod aims to offer both casual players and competitive enthusiasts an upgraded way to enjoy the game.
 Features
 New User Interface (UI)
