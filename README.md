@@ -1,3 +1,4 @@
+![Support us by donating](https://raw.githubusercontent.com/intergrav/devins-badges/c7fd18efdadd1c3f12ae56b49afd834640d2d797/assets/cozy/donate/generic-plural_vector.svg)
 # OceanClient - Minecraft Fabric Mod
 ![Fabric Only](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/supported/fabric_64h.png?raw=true)
 ![Won't support forge](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/unsupported/forge_64h.png?raw=true)
