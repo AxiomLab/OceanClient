@@ -2,6 +2,8 @@
 ![Won't support forge](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/unsupported/forge_64h.png?raw=true)
 ![Won't support LiteLoader](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/unsupported/liteloader_64h.png?raw=true)
 
+![Will support Cubelines](https://github.com/user-attachments/assets/e7c43862-bf1f-4959-a756-a78153ffa5b0)
+
 ### Needs
 ![Fabric API](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/requires/fabric-api_64h.png?raw=true)
 # OceanClient - Minecraft Fabric Mod
